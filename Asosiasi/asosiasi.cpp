@@ -16,3 +16,7 @@ public:
     void tambahDokter(dokter*); // menambhakan dokter ke daftar
     void cetakDokter(); //Menampilkan daftar dokter
 };  
+
+class Dokter {
+
+};
