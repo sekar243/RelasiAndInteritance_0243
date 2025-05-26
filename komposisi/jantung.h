@@ -8,4 +8,7 @@ public:
     jantung() {
         cout << "jantung dihudupkan\n";
     }
+    ~jantung() {
+        cout << "jantung dimatikan\n";
+    }
 };
