@@ -14,4 +14,5 @@ public:
         cout << "Pasien \"" << nama << "\" tidak ada\n";
     }
     void tambahDokter(dokter*); // menambhakan dokter ke daftar
-};
+    void cetakDokter(); //Menampilkan daftar dokter
+};  
